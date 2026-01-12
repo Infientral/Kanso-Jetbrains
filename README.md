@@ -12,23 +12,20 @@ will be released when it's ready but here is 2 screenshots
 
 #### Theme settings 
 
-Kanso 
-<img width="1642" height="1391" alt="{39862E49-7B45-45FF-85B3-CD80FE8D7C10}" src="https://github.com/user-attachments/assets/d0bc025e-5d3c-4e12-a448-09ee68d5e495" />
+Zen 
+<img width="1976" height="1570" alt="image" src="https://github.com/user-attachments/assets/840cff27-8e56-4d02-9a33-3549e3aad34b" />
 
-Kanso Borderless 
-<img width="2067" height="1507" alt="{71B943A4-1F6D-48BC-95B6-857D0F2FD8C6}" src="https://github.com/user-attachments/assets/274b849f-7ef1-4ff9-b5f8-13c893b022cf" />
+Mist 
+<img width="1978" height="1574" alt="image" src="https://github.com/user-attachments/assets/c8e06433-401d-4a3e-9387-ebded5bd129f" />
 
-Kanso Island
-<img width="2073" height="1501" alt="{5A86F88E-B97C-4AF8-929F-14B5A31A84C1}" src="https://github.com/user-attachments/assets/507bb0a8-a25c-438b-a905-b5bbfdb05125" />
+Pearl
+<img width="1980" height="1572" alt="image" src="https://github.com/user-attachments/assets/61321c91-78ce-4a45-ba63-6ee9c15fdbee" />
 
 Ink 
-<img width="2058" height="1503" alt="{BBE18309-9F22-411C-BFD8-E2BE6F624354}" src="https://github.com/user-attachments/assets/31b9700c-9f0d-47e7-b760-b10d52a77a38" />
+<img width="1979" height="1571" alt="image" src="https://github.com/user-attachments/assets/e0c82661-3b8d-4571-af7b-0abea288cd3e" />
 
-Ink Borderless 
-<img width="2067" height="1497" alt="{BAC3FAE0-8685-4802-B0D3-72BBE9F206C7}" src="https://github.com/user-attachments/assets/4c564c9d-067c-4031-bce0-e55d04fcf811" />
-
-Ink Island 
-<img width="2068" height="1502" alt="{04864B61-FEA0-472B-9377-E2AE94669DE5}" src="https://github.com/user-attachments/assets/c06fe970-a1f7-46e2-af15-4167126cbd1a" />
+a Bonus 
+<img width="1971" height="1571" alt="image" src="https://github.com/user-attachments/assets/762e1283-30d7-449e-9437-4bfc73091942" />
 
 
 ## IMPORTANT 
