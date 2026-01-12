@@ -32,7 +32,7 @@ Ink Island
 
 
 ## IMPORTANT 
-#### for to get the optimal borderless variant looks you have to use compact.
+#### to get the optimal borderless variant looks you have to use compact.
 
 #### Status
 
